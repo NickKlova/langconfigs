@@ -1,0 +1,84 @@
+{
+  "lang": "en",
+  "success": {
+    "thanks": "Thank you for your order!",
+    "important": "IMPORTANT ORDER INFORMATION!",
+    "main_text": "Our specialist will contact you within <b>10 minutes</b> to confirm your shipment. Please keep your phone nearby.",
+    "name": "Name",
+    "phone": "Phone Number",
+    "ticket_head": "📋 ORDER DATA",
+    "buyer_title": "Recipient Data:"
+  },
+  "delivery": {
+    "title": "Delivery",
+    "text": "Orders are shipped quickly via trusted couriers. 100% privacy guaranteed."
+  },
+  "payment": {
+    "title": "Payment",
+    "text": "Cash on Delivery (COD). You only pay after receiving the package. Zero risk."
+  },
+  "email_gift": {
+    "title": "🎁 Get 50% OFF + Healthy Diet E-Book!",
+    "desc": "Enter your Email to receive a 50% discount coupon for your next order and a free health guide:",
+    "placeholder": "Enter your email address...",
+    "button": "GET MY GIFT",
+    "saved": "✅ Gift has been sent to your email!"
+  },
+  "poll": {
+    "title": "Have you noticed health improvements after completing the first course?",
+    "option_yes": "Yes, the effect is really felt",
+    "option_no": "No changes",
+    "option_reviews": "View all reviews"
+  },
+  "fomo": {
+    "alert": "IMPORTANT MESSAGE FOR YOU!",
+    "timer": "This secret method will be deleted in:"
+  },
+  "showcase": {
+    "headline": "🔥 HIGHLY RECOMMENDED TO READ NOW:",
+    "badge": "SHOCKING METHOD",
+    "button": "READ THE METHOD..."
+  },
+  "cards": {
+    "dia": {
+      "img": "img/dia.png",
+      "title": "Cure Diabetes in 24 Hours?",
+      "desc": "Just drink this every morning on an empty stomach! This home-made herbal remedy effectively treats type 2 diabetes and lets you forget about metformin forever. Within just 24 hours, you will feel your blood sugar returning to normal and your body getting better with every passing hour!",
+      "sticker": "90% OFF",
+      "proof": "🔥 28 people ordered today",
+      "stock_unit": "packs"
+    },
+    "sustav": {
+      "img": "img/joints.png",
+      "title": "Ancient Trick to Eliminate Joint Pain Without Chemicals!",
+      "desc": "Stop letting your cartilage crumble away with age! This traditional method forcefully flushes out the toxic crystal buildup in your joints that makes it hard to stand. If your knees frequently \"pop\" or crack, don't wait until you're completely immobile and unable to walk. Restore your natural joint lubrication right now!",
+      "sticker": "FREE*",
+      "proof": "⚡ 42 people claimed this promo",
+      "stock_unit": "packs"
+    },
+    "prost": {
+      "img": "img/prostat.png",
+      "title": "Age 60 feels like 30!",
+      "desc": "Read the incredible story of a retiree who successfully restored his prostate health and fully brought back his erection without prostate massage and without expensive pharmacy drugs. This simple natural method left the ministry of health furious, because they no longer profit if you stop buying their synthetic chemicals. Discover the secret to his recovery right now!",
+      "sticker": "PROMO 1+1",
+      "proof": "🔥 14 people bought in the last hour",
+      "stock_unit": "packs"
+    },
+    "para": {
+      "img": "img/para.png",
+      "title": "90% of people are infected! How to know if you have parasites?",
+      "desc": "Often feeling tired, bloated, or having skin problems? Parasites are a \"hidden killer\" that slowly weakens your immune system and triggers serious diseases. Take this short test and discover an easy way to cleanse your body of parasites to cure 7 common illnesses!",
+      "sticker": "HIT 2026",
+      "proof": "📦 19 packages just shipped",
+      "stock_unit": "packs"
+    },
+    "vision": {
+      "img": "img/vision.png",
+      "title": "The 100% vision secret hidden by optometrists",
+      "desc": "Restore Your Clear Vision, Glasses-Free! Tired eyes, blurry vision, cataracts, nearsightedness, or glaucoma? Now your vision can be fully restored once and for all...",
+      "sticker": "GIFT",
+      "proof": "⭐ 33 people left a 5-star review",
+      "stock_unit": "packs"
+    }
+  }
+}
